@@ -10,6 +10,7 @@
 🔭 Atualmente estou trabalhando em ...
   <img align="center" alt="Ferraz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ferraz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="right" alt="Igor-Pic" height="150" style="border-radius:50px;" src="https://github.com/Igor-Ferraz7/midiaa/blob/main/Imagem%20do%20WhatsApp%20de%202022-12-30%20à(s)%2023.50.19.jpg">
 -->
 
 ##
@@ -23,7 +24,6 @@
   <img "img-align=center" alt="Ferraz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ferraz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img "img-align=down" alt="Ferraz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Igor-Pic" height="150" style="border-radius:50px;" src="">
 </div>
 
 ##
