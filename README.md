@@ -1,4 +1,4 @@
-### Hello World 🖖 Meu nome é Igor Ferraz, estou iniciando meus estudos em programação e estou amando :) 
+### Hello World 🖖 Meu nome é Igor Ferraz e estou iniciando meus estudos em programação :) 
 
 ##
 
