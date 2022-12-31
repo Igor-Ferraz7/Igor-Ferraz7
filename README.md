@@ -24,6 +24,9 @@
   <img "img-align=center" alt="Ferraz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ferraz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img "img-align=down" alt="Ferraz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ferraz-VSCode" height="30" width="30" src="https://github.com/Igor-Ferraz7/Igor-Ferraz7/blob/main/file_type_vscode_icon_130084.png">
+  <img align="up" alt="Ferraz-Jupyter" height="30" width="30" src="https://github.com/Igor-Ferraz7/Igor-Ferraz7/blob/main/jupyter-3628867-3030007.png">
+  <img align="center" alt="Ferraz-PyCharm" height="30" width="30" src= "https://github.com/Igor-Ferraz7/Igor-Ferraz7/blob/main/pycharm-icon-256x256-i0h4aul7.png">
 </div>
 
 ##
