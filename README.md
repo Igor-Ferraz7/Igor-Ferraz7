@@ -27,7 +27,7 @@
   <img align="center" alt="Ferraz-VSCode" height="30" width="30" src="https://github.com/Igor-Ferraz7/Igor-Ferraz7/blob/main/file_type_vscode_icon_130084.png">
   <img align="up" alt="Ferraz-Jupyter" height="30" width="30" src="https://github.com/Igor-Ferraz7/Igor-Ferraz7/blob/main/jupyter-3628867-3030007.png">
   <img align="center" alt="Ferraz-PyCharm" height="30" width="30" src= "https://github.com/Igor-Ferraz7/Igor-Ferraz7/blob/main/pycharm-icon-256x256-i0h4aul7.png">
-  <img "img-align=down" alt="Ferraz-Java" height="60" width="40" src="https://github.com/Igor-Ferraz7/Igor-Ferraz7/blob/main/java-icon.png">
+  <img "img-align=down" alt="Ferraz-Java" height="40" width="40" src="https://github.com/Igor-Ferraz7/Igor-Ferraz7/blob/main/java-icon.png">
 </div>
 
 ##
