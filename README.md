@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Atualmente estou estudando HTML, CSS, JavaScript e Banco de Dados nas horas vagas.
+- 🌱 Atualmente estou estudando Pyhon e SQL.
 - 📕 Cursando Engenharia de Software.
 <!--
 - 🤔 I’m looking for help with ...
