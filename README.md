@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Atualmente estou estudando Pyhon e SQL.
+- 🌱 Atualmente estou estudando Python e SQL.
 - 📕 Cursando Engenharia de Software.
 <!--
 - 🤔 I’m looking for help with ...
